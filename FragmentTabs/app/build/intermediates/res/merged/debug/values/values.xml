@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mikerooijackers/Documents/Git/sm-s7-android-code/eigenprojecten/FragmentTabs/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Fragment1">This is Fragment 1</string>
+    <string name="Fragment2">This is Fragment 2</string>
+    <string name="Fragment3">This is Fragment 3</string>
+    <string name="app_name">Fragment Tabs Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/Users/mikerooijackers/Documents/Git/sm-s7-android-code/eigenprojecten/FragmentTabs/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

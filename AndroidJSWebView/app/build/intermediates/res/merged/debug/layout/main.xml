@@ -1,0 +1,11 @@
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+        <WebView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/webkit"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </ScrollView>
+<!-- From: file:/Users/mikerooijackers/Documents/Git/sm-s7-android-code/eigenprojecten/AndroidJSWebView/app/src/main/res/layout/main.xml -->
